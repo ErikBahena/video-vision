@@ -10,12 +10,14 @@ This python project is an automation project. The idea is to scrape through tikt
 
 3. Use ffmpeg to convert the mp4 files into 10 key frames evenly spaced out
 
-4. Run Open-ai gpt image viewer to generate a description for each key frame within the video provided it's timestamp to create a possible description
+4. Run open ai gp4 vision preview model to generate a description for each key frame within the video provided
 
-5. Use chat-gpt 3.5 api to create a voice over script timed to the video
+5. Use chat-gpt 3.5 api to refine the vtt output
 
-6. Use some natural voice generation api to create a voice over mp3 file
+6. Create a voice over script timed to the video with elevenlab's voice over api
 
 7. Use ffmpeg to combine the original video with the voice over at the correct audio levels
 
-8. Upload to youtube also using chat gpt 3.5 api to generate a title and description and hashtags
+8. Overlay the original video with the generated voice over subtitles generated with whisper
+
+9. Upload to youtube also using chat gpt 3.5 api to generate a title and description and hashtags
