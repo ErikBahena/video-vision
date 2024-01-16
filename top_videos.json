@@ -3,6 +3,50 @@
         "VIDEO_TITLE": "Trained professional climbs $CRM building, friend sends me POV.",
         "VIDEO_VIEWS": 228400,
         "VIDEO_LINK": "https://www.tiktok.com/@thetradingfraternity/video/7093678433884065066",
-        "VIDEO_PATH": "/Users/erikbahena/Downloads/541d7a9c-7087-4a75-bba2-91372ae170d4.mp4"
+        "VIDEO_PATH": "/Users/erikbahena/Downloads/541d7a9c-7087-4a75-bba2-91372ae170d4.mp4",
+        "VIDEO_DURATION": 38.22,
+        "KEYFRAMES": [
+            {
+                "timestamp": 0,
+                "file_name": "/Users/erikbahena/Desktop/tt-yt-auto-uploader/keyframes/541d7a9c-7087-4a75-bba2-91372ae170d4/0.jpg"
+            },
+            {
+                "timestamp": 4,
+                "file_name": "/Users/erikbahena/Desktop/tt-yt-auto-uploader/keyframes/541d7a9c-7087-4a75-bba2-91372ae170d4/4.jpg"
+            },
+            {
+                "timestamp": 8,
+                "file_name": "/Users/erikbahena/Desktop/tt-yt-auto-uploader/keyframes/541d7a9c-7087-4a75-bba2-91372ae170d4/8.jpg"
+            },
+            {
+                "timestamp": 13,
+                "file_name": "/Users/erikbahena/Desktop/tt-yt-auto-uploader/keyframes/541d7a9c-7087-4a75-bba2-91372ae170d4/13.jpg"
+            },
+            {
+                "timestamp": 17,
+                "file_name": "/Users/erikbahena/Desktop/tt-yt-auto-uploader/keyframes/541d7a9c-7087-4a75-bba2-91372ae170d4/17.jpg"
+            },
+            {
+                "timestamp": 21,
+                "file_name": "/Users/erikbahena/Desktop/tt-yt-auto-uploader/keyframes/541d7a9c-7087-4a75-bba2-91372ae170d4/21.jpg"
+            },
+            {
+                "timestamp": 25,
+                "file_name": "/Users/erikbahena/Desktop/tt-yt-auto-uploader/keyframes/541d7a9c-7087-4a75-bba2-91372ae170d4/25.jpg"
+            },
+            {
+                "timestamp": 30,
+                "file_name": "/Users/erikbahena/Desktop/tt-yt-auto-uploader/keyframes/541d7a9c-7087-4a75-bba2-91372ae170d4/30.jpg"
+            },
+            {
+                "timestamp": 34,
+                "file_name": "/Users/erikbahena/Desktop/tt-yt-auto-uploader/keyframes/541d7a9c-7087-4a75-bba2-91372ae170d4/34.jpg"
+            },
+            {
+                "timestamp": 38,
+                "file_name": "/Users/erikbahena/Desktop/tt-yt-auto-uploader/keyframes/541d7a9c-7087-4a75-bba2-91372ae170d4/38.jpg"
+            }
+        ],
+        "DESCRIPTION_PATH": "/Users/erikbahena/Desktop/tt-yt-auto-uploader/gpt-vision-outputs/541d7a9c-7087-4a75-bba2-91372ae170d4.txt"
     }
 ]

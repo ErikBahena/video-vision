@@ -225,6 +225,12 @@ if __name__ == "__main__":
 
             with open(file_path, "w") as f:
                 f.write(message_text)
+
+            # Save the description path to the video object
+            video["DESCRIPTION_PATH"] = file_path
+
+        with open(config["json_file_path"], "w") as f:
+            json.dump(processed_videos, f, indent=4)
     except Exception as e:
         print(f"Error during video processing: {e}")
 

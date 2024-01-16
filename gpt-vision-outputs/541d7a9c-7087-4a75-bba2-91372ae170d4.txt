@@ -1,43 +1,41 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:04.000
-Strap in, buttercup. We're going sky-high!
+00:00:00.000 --> 00:00:03.999
+Buckle up, couch potatoes! Window cleaning or free falling?
 
 2
-00:00:04.000 --> 00:00:08.000
-Here's a window to the world... or a drone's nightmare.
+00:00:04.000 --> 00:00:07.999
+Oh look, Spider-Man's day off!
 
 3
-00:00:08.000 --> 00:00:12.500
-Oh look, it's a bird, it's a plane, it's... just another window.
+00:00:08.000 --> 00:00:12.499
+Defying gravity? Pfft, just another Monday.
 
 4
-00:00:13.000 --> 00:00:17.000
-Enter window cleaner: gravity's favorite enemy.
+00:00:13.000 --> 00:00:16.999
+Calling it "extreme sports" is so passé.
 
 5
-00:00:17.000 --> 00:00:21.000
-Working hard or hardly working? You decide!
+00:00:17.000 --> 00:00:20.999
+Zero chill at a thousand feet!
 
 6
-00:00:21.000 --> 00:00:25.000
-Queue heroic music for the man with the squeegee.
+00:00:21.000 --> 00:00:24.999
+New Olympic sport: Urban Clinging.
 
 7
-00:00:25.000 --> 00:00:29.500
-Because nothing says 'adrenaline' like soapy water and a view.
+00:00:25.000 --> 00:00:29.499
+Surely, their mom said, "Go play outside."
 
 8
-00:00:30.000 --> 00:00:34.000
-Defying gravity is just a day job, folks.
+00:00:30.000 --> 00:00:33.999
+It's not flying. It's... falling with style?
 
 9
 00:00:34.000 --> 00:00:38.000
-Upside down, yet still not dropping that wiper.
+Safety ropes? Never heard of them.
 
 10
-00:00:38.000 --> 00:00:38.220
+00:00:38.000 --> 00:00:38.549
 Subscribe?
-
-(Note: The final timestamp is for a call to action, and as per the instructions, the duration is less than one word. The last caption suggests an incomplete call to action encouraging viewers to engage.)
